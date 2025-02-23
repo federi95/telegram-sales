@@ -1,0 +1,1 @@
+ALTER TABLE `cache` ADD `type` text NOT NULL;

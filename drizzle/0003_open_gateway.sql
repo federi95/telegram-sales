@@ -1,0 +1,1 @@
+ALTER TABLE `cache` RENAME COLUMN "last_modified" TO "hash";
